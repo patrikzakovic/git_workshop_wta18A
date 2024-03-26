@@ -4,3 +4,4 @@ Zaklady prace s git-om, GitHub-om a GitKraken-om. V ramci workshopu budu vysvetl
 * git clone
 * git add/commit
 * git pull
+* nový príkaz
