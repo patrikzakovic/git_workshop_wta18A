@@ -8,6 +8,13 @@ Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na r
 Ide o metódu, ktorá umožňuje dynamický a flexibilný prístup k testovaniu softvéru. Podporuje rýchlu reakciu na zmeny a zameriava sa na kľúčové aspekty testovania. 
 Forma testovania pre základnú verifikáciu produktu
 
+### Exploratory testing
+Forma testovania pre základnú verifikáciu produktu.
+Analýza a písanie testov sa robia zároveň s testovaním.
+Sloboda a zodpovednosť testera/ky je nadradená procesom.
+Používané pri agilnom vývoji.
+
+
 ## Jira and Bug
  Jira je nástroj na správu projektov, umožňuje tímom sledovať a riadiť prácu na projektoch, spravovať úlohy, sledovať problémy a komunikovať v rámci tímu. Bug – ide o chybu alebo defekt, ktorý spôsobuje nežiadúce správanie, nesprávne fungovanie alebo chyby výstupu.
  Najpopulárnejší nástroj na riadenie projektu
@@ -90,3 +97,6 @@ Ve světě API, "GET" je jedním z HTTP metod, která se používá k získání
 
 ## SQL JOIN
  "JOIN" je operace, která se často používá v databázových systémech, zejména v dotazovacích jazycích jako je SQL (Structured Query Language). Tato operace umožňuje spojovat data z různých tabulek v databázi na základě určitých podmínek.
+
+
+ 
