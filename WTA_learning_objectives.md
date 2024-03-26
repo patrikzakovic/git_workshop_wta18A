@@ -37,3 +37,5 @@ Structured Query Language je štandardom určením na prácu s relačnými datab
 ## HTML
 HTML je zkratka z anglického termínu "Hypertext Markup Language" (Hypertextový značkovací jazyk). Jedná se o standardní značkovací jazyk, který se používá k vytváření webových stránek a webových aplikací. HTML umožňuje strukturovat obsah webových stránek pomocí různých značek a tagů, které definují různé typy obsahu, jako jsou nadpisy, odkazy, obrázky, seznamy atd. Tyto značky jsou pak interpretovány webovými prohlížeči a zobrazovány uživatelům ve formě vizuální webové stránky. HTML je základním stavebním kamenem pro většinu webových stránek a spolupracuje s dalšími technologiemi, jako jsou CSS (Cascading Style Sheets) pro definování vzhledu stránky a JavaScriptem pro interaktivitu a dynamické funkce.
 
+## API GET
+Ve světě API, "GET" je jedním z HTTP metod, která se používá k získání dat ze serveru. Tato metoda je obvykle používána, když klient (například webový prohlížeč, mobilní aplikace nebo jiný server) žádá o určité informace nebo zdroje ze serveru.
