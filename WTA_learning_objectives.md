@@ -22,6 +22,20 @@ Techniky tvorby testov Existuje mnoho techník tvorby testov, ktoré pomáhajú 
 ## HTML, CSS a JavaScript
 Sú to základné technológie používané pri tvorbe webových stránok a aplikácií. HTML sa používa na štruktúrovanie obsahu, CSSna štýlovanie a formátovanie a JavaScript na interaktivitu a dynamické správanie sa webových stránok.
 
+### HTML
+Hypertext Markup Language
+Popisný jazyk
+Definuje štruktúru stránky
+
+### CSS
+Definuje ako má stránka vyzerať
+Farby, písmo, odsadenia.
+Rozmiestnenie elementov na stránke
+
+### JavaScript
+Programovací jazyk
+Vie manipulovať s elementami, vytvárať, odoberať editovať.
+
 
 ## Nástroje testovania
 Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.
