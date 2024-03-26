@@ -2,33 +2,65 @@
 
 ## Úvod do testovania
 Testovanie softvéru je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu, pričom sa zameriavana na overenie funkcionality, kvality a spoľahlivosti softvérového produktu. Samotné testovanie sa opiera o 7 princípov testovania.
+Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na riziká pri jeho vývoji
 
 ## Session based testing
 Ide o metódu, ktorá umožňuje dynamický a flexibilný prístup k testovaniu softvéru. Podporuje rýchlu reakciu na zmeny a zameriava sa na kľúčové aspekty testovania. 
+Forma testovania pre základnú verifikáciu produktu
 
 ## Jira and Bug
  Jira je nástroj na správu projektov, umožňuje tímom sledovať a riadiť prácu na projektoch, spravovať úlohy, sledovať problémy a komunikovať v rámci tímu. Bug – ide o chybu alebo defekt, ktorý spôsobuje nežiadúce správanie, nesprávne fungovanie alebo chyby výstupu.
+ Najpopulárnejší nástroj na riadenie projektu
 
 
 ## Manažment testovania
 ahŕňa plánovanie, organizovanie a koordináciu testovacích aktivít a zdrojov. Jeho cieľom je zabezpečiť riadenie všetkých testovacích aktivít, aby sa dosiahla kvalita a spoľahlivosť softvéru. 
+Metriky testovania
+•	Miera úspešnosti testov: Počet úspešných testov deleno celkovým počtom testov.
+•	Hustota chýb: Počet chýb nájdených za jednotku času alebo veľkosti kódu.
+•	Pokrytie testov: Percento kódu alebo funkcií pokrytých testami.
+•	Priemerý čas na opravu chýb: Čas od identifikácie chyby do jej opravy.
+•   Subjektívna dôvera testerov v daný produkt
+
+
 
 ## Modely vývoja SW
 u Model životného cyklu vývoja softvéru opisuje typy činností vykonávaných v každej etape vývoja softvéru a logickú a chronologickú nadväznosť týchto činnosti.   Existuje niekoľko modelov vývoja softvéru, medzi najznámejší patrí  W model.
+Sekvenčné vývojové modely
+•	má lineárny, sekvenčný tok činností
+•	poskytuje softvér, ktorý obsahuje kompletnú sadu vlastností
+•	nová fáza vývoja začína až po skončení predchádzajúcej
+•	testovanie prebieha štandardne až na konci
+•	v rozpätí desaťročí vznikali rôzne sekvenčné 
+
 
 ## Techniky tvorby testov
 Techniky tvorby testov Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovacie prípady a scenáre. Poznáme tieto kategórie techniky návrhu testov: založené na špecifikácii, založené na štruktúre a založené na skúsenostiach.
+Kategórie techniky návrhu testov
+•	Založené na špecifikácii (čierna skrinka).
+•	Založené na štruktúre (biela skrinka)
+•	Založené na skúsenostiach.
+
+
 
 ## HTML, CSS a JavaScript
 Sú to základné technológie používané pri tvorbe webových stránok a aplikácií. HTML sa používa na štruktúrovanie obsahu, CSSna štýlovanie a formátovanie a JavaScript na interaktivitu a dynamické správanie sa webových stránok.
+HTML znamená Hypertext Markup Language .Definuje štruktúru stránky
+
+
 
 
 ## Nástroje testovania
 Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.
+Na čo nám slúžia nástroje?
+•	plánovanie, sprehľadnenie nápadov
+•	manažment testovania
+
 
 
 ## Testovanie API 
 je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré umožńuje komunikáciu medzi rôznymi softvérovými kompnentami. Používa sa na overenie, či API správne prijíma požiadavky, spracováva ich a vráti očakávané odpovede.
+
 
 
 ## SQL
