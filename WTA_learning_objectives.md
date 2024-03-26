@@ -60,6 +60,8 @@ Na čo nám slúžia nástroje?
 
 ## Testovanie API 
 je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré umožńuje komunikáciu medzi rôznymi softvérovými kompnentami. Používa sa na overenie, či API správne prijíma požiadavky, spracováva ich a vráti očakávané odpovede.
+skratka pre Application Programming Interface
+“A set of rules ('code') and specifications that software programs can follow to communicate with each other.”
 
 
 
