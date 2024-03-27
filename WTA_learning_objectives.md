@@ -1,4 +1,5 @@
-# WTA lekcie
+# WTA lekcie / 
+#PatriciaDzupinova
 
 ## Úvod do testovania
 <<<<<<< HEAD
