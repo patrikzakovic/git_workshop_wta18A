@@ -2,7 +2,7 @@
 
 ## Úvod do testovania
 Testovanie softvéru je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu, pričom sa zameriava na na overenie funkcionality, kvality a spoľahlivosti softvérového produktu. Samotné testovanie sa opiera o 7 princípov testovania.
-Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na riziká pri jeho vývoji/oprava.
+Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na riziká pri jeho vývoji.
 
 ## Session based testing
 Session-based testing (SBT) je metóda testovania softvéru, ktorá sa zameriava na flexibilitu a efektivitu pri testovaní. Pri tejto metóde sú testovacie aktivity organizované do "testovacích relácií" (sessions), ktoré sú obmedzené časovo a majú jasne stanovené ciele. Každá testovacia relácia môže byť zameraná na určitú oblasť aplikácie, testovanie určitých funkcií alebo rizík, alebo môže mať iný špecifický cieľ.
