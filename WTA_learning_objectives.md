@@ -4,6 +4,14 @@
 <<<<<<< HEAD
 Testovanie softvéru je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu, pričom sa zameriavana na overenie funkcionality, kvality a spoľahlivosti softvérového produktu. Samotné testovanie sa opiera o 7 princípov testovania.
 
+1. Testovanie ukazuje na prítomnosť defektov ale nikdy na ich neprítomnosť
+2. Vyčerpávajúce testovanie je nemožné.
+3. Včasné testovanie šetrí čas a peniaze.
+4. Zhlukovanie defektov.
+5. Pesticídny paradox.
+6. Testovanie je závislé na kontexte.
+7. Falošná predstava o neexistencii omylov.
+
 ## Session based testing
 Ide o metódu, ktorá umožňuje dynamický a flexibilný prístup k testovaniu softvéru. Podporuje rýchlu reakciu na zmeny a zameriava sa na kľúčové aspekty testovania. 
 
