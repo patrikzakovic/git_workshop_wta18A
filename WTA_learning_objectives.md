@@ -12,30 +12,37 @@ Exploratory testing je dynamická metóda testovania softvéru, pri ktorej teste
 Sloboda a zodpovednosť testera/ky je nadradená procesom.
 
 ## Jira and Bug
- Jira je nástroj na správu projektov, umožňuje tímom sledovať a riadiť prácu na projektoch, spravovať úlohy, sledovať problémy a komunikovať v rámci tímu. Bug – ide o chybu alebo defekt, ktorý spôsobuje nežiadúce správanie, nesprávne fungovanie alebo chyby výstupu.
+ Jira je nástroj na správu projektov, umožňuje tímom sledovať a riadiť prácu na projektoch, spravovať úlohy, sledovať problémy a komunikovať v rámci tímu. 
+ Bug – ide o chybu alebo defekt, ktorý spôsobuje nežiadúce správanie, nesprávne fungovanie alebo chyby výstupu.
  Najpopulárnejší nástroj na riadenie projektu
 
 ## Manažment testovania
-ahŕňa plánovanie, organizovanie a koordináciu testovacích aktivít a zdrojov. Jeho cieľom je zabezpečiť riadenie všetkých testovacích aktivít, aby sa dosiahla kvalita a spoľahlivosť softvéru. 
-Metriky testovania
-•	Miera úspešnosti testov: Počet úspešných testov deleno celkovým počtom testov.
-•	Hustota chýb: Počet chýb nájdených za jednotku času alebo veľkosti kódu.
-•	Pokrytie testov: Percento kódu alebo funkcií pokrytých testami.
-•	Priemerý čas na opravu chýb: Čas od identifikácie chyby do jej opravy.
-•   Subjektívna dôvera testerov v daný produkt
+Zahŕňa plánovanie, organizovanie a koordináciu testovacích aktivít a zdrojov. Jeho cieľom je zabezpečiť riadenie všetkých testovacích aktivít, aby sa dosiahla kvalita a spoľahlivosť softvéru. 
+### Metriky testovania:
+*	Miera úspešnosti testov: Počet úspešných testov deleno celkovým počtom testov.
+*	Hustota chýb: Počet chýb nájdených za jednotku času alebo veľkosti kódu.
+*	Pokrytie testov: Percento kódu alebo funkcií pokrytých testami.
+*	Priemerý čas na opravu chýb: Čas od identifikácie chyby do jej opravy.
+*   Subjektívna dôvera testerov v daný produkt
 
 ## Modely vývoja SW
 Model vývoja softvéru je konceptuálny rámec alebo postup, ktorý sa používa na plánovanie, riadenie a realizáciu procesu vývoja softvéru. Tieto modely definujú rôzne fázy, aktivity a postupy, ktoré sa majú dodržiavať počas vývoja softvéru a pomáhajú organizovať prácu vývojových tímov. Cieľom modelu vývoja softvéru je zlepšiť riadenie projektu, zvýšiť kvalitu výsledného produktu a minimalizovať riziká spojené s vývojom softvéru.
-Existuje niekoľko rôznych modelov vývoja softvéru, ktoré sa líšia v ich prístupe, organizácii a štruktúre. 
-Niektoré z najbežnejších modelov vývoja softvéru zahŕňajú - Vodopádový model, Iteratívny a inkrementálny model, Prototypovanie, Spirálový model, Agilné modely a DevOps.
-Každý z týchto modelov má svoje výhody a obmedzenia a vyberá sa na základe špecifických požiadaviek projektu, typu softvéru a preferencií tímu.
+Existuje niekoľko rôznych modelov vývoja softvéru, ktoré sa líšia v ich prístupe, organizácii a štruktúre. <p> 
+*Niektoré z najbežnejších modelov vývoja softvéru zahŕňajú:* 
+- vodopádový model, 
+- iteratívny a inkrementálny model, 
+- prototypovanie, 
+- spirálový model, 
+- agilné modely, 
+- DevOps.
+<p>Každý z týchto modelov má svoje výhody a obmedzenia a vyberá sa na základe špecifických požiadaviek projektu, typu softvéru a preferencií tímu.
 
 ## Techniky tvorby testov
 Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovacie prípady a scenáre.
-Kategórie techniky tvorby testov:
-•	Založené na špecifikácii (čierna skrinka).
-•	Založené na štruktúre (biela skrinka)
-•	Založené na skúsenostiach.
+**Kategórie techniky tvorby testov:**
+* Založené na špecifikácii (čierna skrinka).
+* Založené na štruktúre (biela skrinka)
+* Založené na skúsenostiach.
 
 ## HTML, CSS a JavaScript
 Sú to základné technológie používané pri tvorbe webových stránok a aplikácií. HTML sa používa na štruktúrovanie obsahu, CSSna štýlovanie a formátovanie a JavaScript na interaktivitu a dynamické správanie sa webových stránok.
@@ -54,10 +61,11 @@ JavaScript je vysokoúrovňový, interpretovaný programovací jazyk, ktorý sa 
 JavaScript je veľmi rozšírený a používa sa na webových stránkach všetkých typov, od jednoduchých statických stránok po komplexné webové aplikácie ako online hry, sociálne siete a online obchody.
 
 ## Nástroje testovania
-Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.
-Na čo nám slúžia nástroje?
-•	plánovanie, sprehľadnenie nápadov
-•	manažment testovania
+Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.<p>
+**Na čo nám slúžia nástroje?**
+1. 	plánovanie
+2. sprehľadnenie nápadov
+3. manažment testovania
 
 ## Testovanie API 
 je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré umožńuje komunikáciu medzi rôznymi softvérovými kompnentami. Používa sa na overenie, či API správne prijíma požiadavky, spracováva ich a vráti očakávané odpovede.
