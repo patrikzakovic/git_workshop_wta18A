@@ -10,3 +10,4 @@ Zaklady prace s git-om, GitHub-om a GitKraken-om. V ramci workshopu budu vysvetl
 >>>>>>> 4e32c164ba48c498315ca627bc6f1290805ac5a2
 * nový príkaz
 * dalsi riadok
+* dalsi riadok
