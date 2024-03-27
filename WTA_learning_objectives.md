@@ -129,6 +129,7 @@ Typicky sa používa vo webovom prostredí na získanie údajov z webových serv
 SQL JOIN je operátor, ktorý sa používa na spojenie dát z viacerých tabuliek v databáze na základe určitých podmienok. SQL JOIN umožňuje kombinovať dáta z rôznych tabuliek a vytvárať komplexné dotazy, ktoré zahŕňajú informácie z viacerých zdrojov.
 Použitie správnych typov JOIN operátorov a správne definovanie podmienok JOIN je kľúčové pre efektívne a presné získavanie dát z viacerých tabuliek v SQL dotazoch.
 
-
+##INNER JOIN:
+ Vrací pouze řádky, které mají shodu v obou spojovaných tabulkách na základě zadaných podmínek.
  
 >>>>>>> 4e32c164ba48c498315ca627bc6f1290805ac5a2
