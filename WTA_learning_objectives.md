@@ -3,7 +3,7 @@
 
 ## Úvod do testovania
 <<<<<<< HEAD
-Testovanie softvéru je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu, pričom sa zameriavana na overenie funkcionality, kvality a spoľahlivosti softvérového produktu. Samotné testovanie sa opiera o 7 princípov testovania.
+Testovanie softvéru je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu, pričom sa zameriavana na overenie funkcionality, kvality a spoľahlivosti softvérového produktu. Včasné nájdenie defektu šetrí peniaze. Samotné testovanie sa opiera o 7 princípov testovania.
 
 1. Testovanie ukazuje na prítomnosť defektov ale nikdy na ich neprítomnosť
 2. Vyčerpávajúce testovanie je nemožné.
@@ -77,7 +77,6 @@ Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovac
 ## HTML, CSS a JavaScript
 Sú to základné technológie používané pri tvorbe webových stránok a aplikácií. HTML sa používa na štruktúrovanie obsahu, CSSna štýlovanie a formátovanie a JavaScript na interaktivitu a dynamické správanie sa webových stránok.
 
-<<<<<<< HEAD
 
 ## Nástroje testovania
 Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.
@@ -86,7 +85,6 @@ Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektiv
 ## Testovanie API 
 je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré umožńuje komunikáciu medzi rôznymi softvérovými kompnentami. Používa sa na overenie, či API správne prijíma požiadavky, spracováva ich a vráti očakávané odpovede.
 
-=======
 ### HTML
 HTML (HyperText Markup Language) je značkovací jazyk používaný na vytváranie a formátovanie webových stránok a webových aplikácií. HTML poskytuje štruktúru a význam pre obsah webových stránok, definuje rôzne typy obsahu, ako sú text, obrázky, odkazy, formuláre a ďalšie prvky, a umožňuje ich zobrazenie vo webovom prehliadači.
 HTML používa značky (tagy) na označenie jednotlivých častí obsahu a definuje ich význam pomocou štruktúrovaného stromu. Každá značka je uzavretá v ostrých zátvorkách (<>) a môže obsahovať atribúty, ktoré poskytujú ďalšie informácie o obsahu.
@@ -112,10 +110,14 @@ je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré
 skratka pre Application Programming Interface
 “A set of rules ('code') and specifications that software programs can follow to communicate with each other.”
 Na testovanie sme pouzivali nastroj menom POSTMAN
->>>>>>> 4e32c164ba48c498315ca627bc6f1290805ac5a2
 
 ## SQL
 Structured Query Language je štandardom určením na prácu s relačnými databázami. Pomocou neho je možné vykonávať rôzne operácie, ako sú vytváranie, aktualizácia a odstraňovanie dát z databáz, definovanie štruktúry tabuliek, atď. 
+Delí sa na:
+○ DML = data MANIPULATION language - jazyk pre manipuláciu dát
+○ DDL = data DEFINITION language – jazyk pre definíciu údajov
+
+
 
 <<<<<<< HEAD
 
