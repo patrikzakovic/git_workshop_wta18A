@@ -29,37 +29,25 @@ Metriky testovania
 •	Priemerý čas na opravu chýb: Čas od identifikácie chyby do jej opravy.
 •   Subjektívna dôvera testerov v daný produkt
 
-
-
 ## Modely vývoja SW
-u Model životného cyklu vývoja softvéru opisuje typy činností vykonávaných v každej etape vývoja softvéru a logickú a chronologickú nadväznosť týchto činnosti.   Existuje niekoľko modelov vývoja softvéru, medzi najznámejší patrí  W model.
-Sekvenčné vývojové modely
-•	má lineárny, sekvenčný tok činností
-•	poskytuje softvér, ktorý obsahuje kompletnú sadu vlastností
-•	nová fáza vývoja začína až po skončení predchádzajúcej
-•	testovanie prebieha štandardne až na konci
-•	v rozpätí desaťročí vznikali rôzne sekvenčné 
-
+Model vývoja softvéru je konceptuálny rámec alebo postup, ktorý sa používa na plánovanie, riadenie a realizáciu procesu vývoja softvéru. Tieto modely definujú rôzne fázy, aktivity a postupy, ktoré sa majú dodržiavať počas vývoja softvéru a pomáhajú organizovať prácu vývojových tímov. Cieľom modelu vývoja softvéru je zlepšiť riadenie projektu, zvýšiť kvalitu výsledného produktu a minimalizovať riziká spojené s vývojom softvéru.
+Existuje niekoľko rôznych modelov vývoja softvéru, ktoré sa líšia v ich prístupe, organizácii a štruktúre. 
+Niektoré z najbežnejších modelov vývoja softvéru zahŕňajú - Vodopádový model, Iteratívny a inkrementálny model, Prototypovanie, Spirálový model, Agilné modely a DevOps.
+Každý z týchto modelov má svoje výhody a obmedzenia a vyberá sa na základe špecifických požiadaviek projektu, typu softvéru a preferencií tímu.
 
 ## Techniky tvorby testov
-Techniky tvorby testov Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovacie prípady a scenáre. Poznáme tieto kategórie techniky návrhu testov: založené na špecifikácii, založené na štruktúre a založené na skúsenostiach.
-Kategórie techniky návrhu testov
+Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovacie prípady a scenáre.
+Kategórie techniky tvorby testov:
 •	Založené na špecifikácii (čierna skrinka).
 •	Založené na štruktúre (biela skrinka)
 •	Založené na skúsenostiach.
 
-
-
 ## HTML, CSS a JavaScript
 Sú to základné technológie používané pri tvorbe webových stránok a aplikácií. HTML sa používa na štruktúrovanie obsahu, CSSna štýlovanie a formátovanie a JavaScript na interaktivitu a dynamické správanie sa webových stránok.
-HTML znamená Hypertext Markup Language .Definuje štruktúru stránky
-
-
 
 ### HTML
-Hypertext Markup Language
-Popisný jazyk
-Definuje štruktúru stránky
+HTML (HyperText Markup Language) je značkovací jazyk používaný na vytváranie a formátovanie webových stránok a webových aplikácií. HTML poskytuje štruktúru a význam pre obsah webových stránok, definuje rôzne typy obsahu, ako sú text, obrázky, odkazy, formuláre a ďalšie prvky, a umožňuje ich zobrazenie vo webovom prehliadači.
+HTML používa značky (tagy) na označenie jednotlivých častí obsahu a definuje ich význam pomocou štruktúrovaného stromu. Každá značka je uzavretá v ostrých zátvorkách (<>) a môže obsahovať atribúty, ktoré poskytujú ďalšie informácie o obsahu.
 
 ### CSS
 Definuje ako má stránka vyzerať
@@ -67,9 +55,8 @@ Farby, písmo, odsadenia.
 Rozmiestnenie elementov na stránke
 
 ### JavaScript
-Programovací jazyk
-Vie manipulovať s elementami, vytvárať, odoberať editovať.
-
+JavaScript je vysokoúrovňový, interpretovaný programovací jazyk, ktorý sa používa na tvorbu interaktívnych webových stránok a webových aplikácií.
+JavaScript je veľmi rozšírený a používa sa na webových stránkach všetkých typov, od jednoduchých statických stránok po komplexné webové aplikácie ako online hry, sociálne siete a online obchody.
 
 ## Nástroje testovania
 Tieto nástroje pomáhajú automatizovať testovacie procesy a zlepšiť efektivitu testovania. Medzi najznámejšie patria Selenium, JUnit, TestNg, Appium a Postman.
@@ -77,27 +64,22 @@ Na čo nám slúžia nástroje?
 •	plánovanie, sprehľadnenie nápadov
 •	manažment testovania
 
-
-
 ## Testovanie API 
 je proces overovania funkcionality a spoľahlivosti rozhrania aplikácie, ktoré umožńuje komunikáciu medzi rôznymi softvérovými kompnentami. Používa sa na overenie, či API správne prijíma požiadavky, spracováva ich a vráti očakávané odpovede.
 skratka pre Application Programming Interface
 “A set of rules ('code') and specifications that software programs can follow to communicate with each other.”
 Na testovanie sme pouzivali nastroj menom POSTMAN
 
-
-
 ## SQL
 Structured Query Language je štandardom určením na prácu s relačnými databázami. Pomocou neho je možné vykonávať rôzne operácie, ako sú vytváranie, aktualizácia a odstraňovanie dát z databáz, definovanie štruktúry tabuliek, atď. 
 
-## HTML
-HTML je zkratka z anglického termínu "Hypertext Markup Language" (Hypertextový značkovací jazyk). Jedná se o standardní značkovací jazyk, který se používá k vytváření webových stránek a webových aplikací. HTML umožňuje strukturovat obsah webových stránek pomocí různých značek a tagů, které definují různé typy obsahu, jako jsou nadpisy, odkazy, obrázky, seznamy atd. Tyto značky jsou pak interpretovány webovými prohlížeči a zobrazovány uživatelům ve formě vizuální webové stránky. HTML je základním stavebním kamenem pro většinu webových stránek a spolupracuje s dalšími technologiemi, jako jsou CSS (Cascading Style Sheets) pro definování vzhledu stránky a JavaScriptem pro interaktivitu a dynamické funkce.
-
 ## API GET
-Ve světě API, "GET" je jedním z HTTP metod, která se používá k získání dat ze serveru. Tato metoda je obvykle používána, když klient (například webový prohlížeč, mobilní aplikace nebo jiný server) žádá o určité informace nebo zdroje ze serveru.
+API GET je jedna z metód používaných v API (rozhraní aplikačného programovania) na získanie dát alebo informácií zo servera alebo inej aplikácie. GET je typicky používaný na získanie dát zo zdroja, pričom neposkytuje žiadne dáta na server.
+Typicky sa používa vo webovom prostredí na získanie údajov z webových serverov alebo služieb, ale môže sa používať aj v iných kontextoch, ako napríklad pri komunikácii medzi aplikáciami alebo pri prístupe k databáze.
 
 ## SQL JOIN
- "JOIN" je operace, která se často používá v databázových systémech, zejména v dotazovacích jazycích jako je SQL (Structured Query Language). Tato operace umožňuje spojovat data z různých tabulek v databázi na základě určitých podmínek.
+SQL JOIN je operátor, ktorý sa používa na spojenie dát z viacerých tabuliek v databáze na základe určitých podmienok. SQL JOIN umožňuje kombinovať dáta z rôznych tabuliek a vytvárať komplexné dotazy, ktoré zahŕňajú informácie z viacerých zdrojov.
+Použitie správnych typov JOIN operátorov a správne definovanie podmienok JOIN je kľúčové pre efektívne a presné získavanie dát z viacerých tabuliek v SQL dotazoch.
 
 
  
