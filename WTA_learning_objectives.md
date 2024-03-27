@@ -25,6 +25,7 @@ ahŕňa plánovanie, organizovanie a koordináciu testovacích aktivít a zdrojo
 
 ## Modely vývoja SW
 u Model životného cyklu vývoja softvéru opisuje typy činností vykonávaných v každej etape vývoja softvéru a logickú a chronologickú nadväznosť týchto činnosti.   Existuje niekoľko modelov vývoja softvéru, medzi najznámejší patrí  W model.
+Nejpopulárnější model vývoje SW současnosti je agilní přístup, který umožňuje rychlý vývoj softwaru a zároveň dokáže reagovat na změny požadavků v průběhu vývojového cyklu.
 
 ## Techniky tvorby testov
 Techniky tvorby testov Existuje mnoho techník tvorby testov, ktoré pomáhajú identifikovať testovacie prípady a scenáre. Poznáme tieto kategórie techniky návrhu testov: založené na špecifikácii, založené na štruktúre a založené na skúsenostiach.
